@@ -14,4 +14,5 @@ def find_min_in_nested_arrays(src)
     smallest_numbers << small_num
     row_index += 1
   end
+  return smallest_numbers
 end
